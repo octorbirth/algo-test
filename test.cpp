@@ -9,4 +9,7 @@ int main(){
     printf("444 After Add, Not Commit");
     printf("555 After Add, Not Commit");
     printf("666 Not Add");
+    printf("666 Not Add");
+    printf("666 Not Add");
+    printf("666 Not Add");
 }
