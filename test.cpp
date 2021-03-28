@@ -12,4 +12,6 @@ int main(){
     printf("666 Not Add");
     printf("777 Not Add");
     printf("666 Not Add");
+
+    printf("sss");
 }
