@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-    printf("sss");
+    printf("(A) Push Remote..");
 }
